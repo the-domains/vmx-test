@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "We have to check out the features of thegrid. Let's see... What can we do? We have to check out the features of thegrid. Let's see... What can we do? We have to check out the features of thegrid. Let's see... What can we do?"
-datePublished: '2016-04-23T20:22:05.973Z'
-dateModified: '2016-04-23T20:20:13.068Z'
+datePublished: '2016-04-23T20:24:17.706Z'
+dateModified: '2016-04-23T20:22:09.570Z'
 title: This is a great new Post
 author: []
+sourcePath: _posts/2016-04-23-this-is-a-great-new-post.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-23-this-is-a-great-new-post.md
-published: true
 url: this-is-a-great-new-post/index.html
 _type: Article
 
