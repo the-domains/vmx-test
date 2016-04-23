@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[VMX Test]]></title>
+        <description><![CDATA[VMX Test]]></description>
+        <link>https://thegrid.ai/vmx-test/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 23 Apr 2016 20:24:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vmx-test/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This is a great new Post]]></title>
+            <description><![CDATA[<article><h1>This is a great new Post</h1><p>We have to check out the features of thegrid. Let's see... What can we do? We have to check out the features of thegrid. Let's see... What can we do? We have to check out the features of thegrid. Let's see... What can we do?</p></article>]]></description>
+            <link>https://thegrid.ai/vmx-test/this-is-a-great-new-post/index.html</link>
+            <guid isPermaLink="false">c393558c-3522-4b86-97a6-21adfd9350c6</guid>
+            <pubDate>Sat, 23 Apr 2016 20:24:17 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
