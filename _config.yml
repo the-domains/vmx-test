@@ -1,7 +1,7 @@
 name: VMX Test
 favicon: null
-layout_spectrum: 0.6963358819484711
-typography_spectrum: 0.0056655025109648705
+layout_spectrum: 0.6377
+typography_spectrum: 0.35753
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.2596084240358323
+  brandStrength: 0.25
   lightness: 0.5495088149327785
   saturation: 0.5476108409930021
   rhythmicContrast: 0.5129880423191935
